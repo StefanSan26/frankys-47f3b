@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Ampersand Theme",
+    "title": "Franky Sanchez",
     "path_prefix": "/",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "dark",
     "header": {
-        "title": "Ampersand",
+        "title": "Franky",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Ampersand Logo",
+        "logo_img_alt": "Franky Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -17,16 +17,6 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
                 "style": "link"
             }
         ]
@@ -50,24 +40,10 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ],
