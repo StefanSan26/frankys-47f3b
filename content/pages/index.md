@@ -7,11 +7,7 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
-<<<<<<< HEAD
   - label: Contact
-=======
-		- label: Contact
->>>>>>> bee46840eefee1c36e42f391790fee4fe3134ddd
     url: /contact
     style: secondary
 has_more_link: true
