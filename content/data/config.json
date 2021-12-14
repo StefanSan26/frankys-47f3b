@@ -5,7 +5,7 @@
     "palette": "dark",
     "header": {
         "title": "Franky",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/profile.jpeg",
         "logo_img_alt": "Franky Logo",
         "has_nav": true,
         "nav_links": [
@@ -31,30 +31,30 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://facebook.com/sfranky",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "facebook",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://instagram.com/frankyvs",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/franky-sanchez/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             }
         ],
         "has_subscribe": true,
-        "subscribe_title": "Subscribe for new updates",
-        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+        "subscribe_title": "Suscribete",
+        "subscribe_content": "Suscríbete a mi boletín informativo de correo electrónico para recibir mas información.",
         "subscribe_action": "/subscribe-success"
     }
 }

@@ -55,4 +55,4 @@ seo:
 layout: contact
 ---
 
-Fill the form below to get in touch with me.
+Rellena el siguiente formulario para ponerte en contacto conmigo.

@@ -1,8 +1,8 @@
 ---
-title: You’re in!
+title: Estas inscrito!
 layout: page
 ---
 
-Your subscription to **Ampersand Newsletter** has been confirmed.
+Tu suscripcion a **Boletín Informativo de Franky Sanchez** se ha confirmado.
 
-**Thank you for subscribing!**
+**Gracias Por Suscribirte!**

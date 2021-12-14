@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Franky Sanchez
 has_intro: true
 intro_content: >-
-  Welcome to my Blog
+  Bienvenid@ a mi Blog
 intro_actions:
   - label: Learn More
     url: /about
@@ -20,23 +20,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Franky Sanchez Blog
       keyName: property
     - name: 'og:description'
       value: Blog
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: images/profile.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: Franky Sanchez Blog
     - name: 'twitter:description'
       value: Blog
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: images/profile.jpeg
       relativeUrl: true
 layout: home
 ---

@@ -1,11 +1,11 @@
 ---
 title: Franky
 subtitle: BLOG
-img_path: images/about.jpg
-img_alt: A man standing on a rock outside the cave
+img_path: images/about.jpeg
+img_alt: Cara de Franky
 seo:
   title: Franky
-  description: This is the about me page
+  description: Esta es la pagina acerca de mí
   extra:
     - name: 'og:type'
       value: website
@@ -14,10 +14,10 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Esta es la pagina acerca de mí
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/about.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -25,12 +25,14 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Esta es la pagina acerca de mí
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/about.jpeg
       relativeUrl: true
 layout: page
 ---
 
-Hi, i am **Franky Sanchez** i work as a Electronical Enginner in Bogota City in Colombia
-*Thank You for reading!*
+Bienvenido, mi nombre es **Franky Sanchez**, soy Ingeniero Electrónico, actualmente vivo en Bogotá. En este blog trato temas que me parecen útiles de cara al futuro: la tecnología, las finanzas personales y el desarrollo personal. Te invito a formar parte de esta comunidad.
+
+<!-- Hi, i am **Franky Sanchez** i work as a Electronical Enginner in Bogota City in Colombia
+*Thank You for reading!* -->

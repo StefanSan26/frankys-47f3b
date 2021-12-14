@@ -1,8 +1,8 @@
 ---
-title: Thank You!
+title: Gracias!
 layout: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+¡Gracias por contactarme! Me pondré en contacto contigo pronto.
 
 **Have a great day!**
